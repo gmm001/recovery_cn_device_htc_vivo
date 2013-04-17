@@ -15,7 +15,7 @@ Make -j32 recoveryimage
 
 Individual ROM station: http://gmm.10ml.net
 
-
+---------------------------------------------------
 
 中文 恢复系统的device，G11专用配置， By 安智 破晓-Gmmつ
 
